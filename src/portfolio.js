@@ -7,77 +7,69 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Nihal Umar",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Description",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Nihal Umar",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Nihal Umar",
+  logo_name: "Nihal Umar",
+  nickname: "CETACEAN",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Security Researcher | Author | Hacker",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "#",
+  portfolio_repository: "#",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  // github: "https://github.com/nihalumar",
+  // linkedin: "https://www.linkedin.com/in/nihalumar",
+  // gmail: "nihalumar7@gmail.com",
+  // twitter: "https://twitter.com/0xnihalumar",
+  // instagram: "https://www.instagram.com/0xnihalumar/"
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/nihalumar",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+    link: "https://www.linkedin.com/in/nihalumar",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ",
+    link: "https://www.youtube.com/channel/nihalumar",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:nihalumar7@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "https://twitter.com/0xnihalumar",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
   {
-    name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/0xnihalumar/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
